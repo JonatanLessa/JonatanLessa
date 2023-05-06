@@ -21,6 +21,4 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
 
-Sou apaixonado por tecnologia, principalmente IoT e tudo que envolva a Indústria 4.0. Tenho me dedicado a projetos que visam levar essa tecnologia ao campo, melhorando a vida do produtor rural 🚜🌾📡📈. Mergulhando em águas de BI, Data Science e Machine Learning.
-
-
+Sou apaixonado por tecnologia e tudo que envolva a Indústria 4.0. Tenho me dedicado a projetos que vão desde agricultua digital à aplicação da ciência de dados no mercdo financeiro e e-commerce.
